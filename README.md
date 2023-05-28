@@ -1,4 +1,4 @@
-## Experiments with Large Language Models (LLMs) and Langchain framework.
+##  Experiments with Agents using Langchain and Large Language Models 
 
 Prompt:
 *Write a python code for a simple calculator app the does addition, substraction,
