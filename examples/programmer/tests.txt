@@ -1,0 +1,5 @@
+5
+3
+24
+5.0
+Cannot divide by zero
